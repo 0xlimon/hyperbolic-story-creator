@@ -26,7 +26,7 @@ Before you start, make sure you have:
 
 - Node.js (v18.0.0 or later)
 - npm or yarn package manager
-- A Hyperbolic AI API key (obtain from [Hyperbolic AI](https://hyperbolic.xyz))
+- A Hyperbolic API key (obtain from [Hyperbolic ](https://hyperbolic.xyz))
 
 ## Setup Instructions
 
